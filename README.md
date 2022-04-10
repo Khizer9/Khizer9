@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khizer9 
+- 👋 Hi, I’m @Khizer_ali
 - 🌱 I’m currently learning JavaScript and its Frameworks.
 
 <!---
